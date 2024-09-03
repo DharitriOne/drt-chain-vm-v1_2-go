@@ -6,7 +6,7 @@ require (
 	github.com/DharitriOne/drt-chain-core-go v0.0.2
 	github.com/DharitriOne/drt-chain-crypto-go v0.0.1
 	github.com/DharitriOne/drt-chain-logger-go v0.0.1
-	github.com/DharitriOne/drt-chain-vm-common-go v0.0.2
+	github.com/DharitriOne/drt-chain-vm-common-go v0.0.3
 	github.com/DharitriOne/drt-components-big-int v0.0.1
 	github.com/btcsuite/btcd/btcec/v2 v2.2.0
 	github.com/btcsuite/btcd/chaincfg/chainhash v1.0.1

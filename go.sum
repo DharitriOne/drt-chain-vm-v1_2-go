@@ -5,8 +5,8 @@ github.com/DharitriOne/drt-chain-crypto-go v0.0.1 h1:hAcZ7zAkGJtVvZCsjQlTxPK6i1U
 github.com/DharitriOne/drt-chain-crypto-go v0.0.1/go.mod h1:Rh4OMg0HcgUTfWmWngQ5mi+zr7Zq+zsQq1fbS+UTtLA=
 github.com/DharitriOne/drt-chain-logger-go v0.0.1 h1:/1EV0WIFOwpS4cV75q7OML0qEC/438/jtYg8hlhaiB8=
 github.com/DharitriOne/drt-chain-logger-go v0.0.1/go.mod h1:AgRkVFaNdNZDXkeKF9Wgnr3/xD09YtKMpoiwH+D3/2U=
-github.com/DharitriOne/drt-chain-vm-common-go v0.0.2 h1:HtY2CLV3K/z3f4FJ6rj4kcDzx2+IhX/17+Q1/F/dvpI=
-github.com/DharitriOne/drt-chain-vm-common-go v0.0.2/go.mod h1:V0JTS01XXjuho5Ry4YOOf6MgNcM7JQXxV4qqeeuotzY=
+github.com/DharitriOne/drt-chain-vm-common-go v0.0.3 h1:NlcJ8kHAHA1DTSh3JRBRChG4ilk5ff0w0iPDvUy9/FY=
+github.com/DharitriOne/drt-chain-vm-common-go v0.0.3/go.mod h1:V0JTS01XXjuho5Ry4YOOf6MgNcM7JQXxV4qqeeuotzY=
 github.com/DharitriOne/drt-components-big-int v0.0.1 h1:5cgDrp9Uyq5+WoVJZV8Hr3+NejuqOdgQ/0DFWdAi47s=
 github.com/DharitriOne/drt-components-big-int v0.0.1/go.mod h1:eHKhm09W6xrxF2xXjKSj8CybFMvdzfGA47Nb4MvqLsM=
 github.com/btcsuite/btcd/btcec/v2 v2.2.0 h1:fzn1qaOt32TuLjFlkzYSsBC35Q3KUjT1SwPxiMSCF5k=
