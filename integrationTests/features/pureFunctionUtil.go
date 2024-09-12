@@ -48,7 +48,7 @@ func newPureFunctionExecutor() (*pureFunctionExecutor, error) {
 		BlockGasLimit:            blockGasLimit,
 		GasSchedule:              gasSchedule,
 		ProtocolBuiltinFunctions: make(vmcommon.FunctionNames),
-		ProtectedKeyPrefix:       []byte("E" + "L" + "R" + "O" + "N" + "D"),
+		ProtectedKeyPrefix:       []byte("N" + "U" + "M" + "B" + "A" + "T"),
 		EnableEpochsHandler: &mock.EnableEpochsHandlerStub{
 			IsFlagEnabledCalled: func(flag core.EnableEpochFlag) bool {
 				return flag == hostCore.SCDeployFlag || flag == hostCore.AheadOfTimeGasUsageFlag || flag == hostCore.RepairCallbackFlag || flag == hostCore.BuiltInFunctionsFlag

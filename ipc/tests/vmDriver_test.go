@@ -109,7 +109,7 @@ func newDriver(tb testing.TB, blockchain *contextmock.BlockchainHookStub) *nodep
 				VMType:             drtVirtualMachine,
 				BlockGasLimit:      uint64(10000000),
 				GasSchedule:        config.MakeGasMapForTests(),
-				ProtectedKeyPrefix: []byte("E" + "L" + "R" + "O" + "N" + "D"),
+				ProtectedKeyPrefix: []byte("N" + "U" + "M" + "B" + "A" + "T"),
 				EnableEpochsHandler: &mock.EnableEpochsHandlerStub{
 					IsFlagEnabledCalled: func(flag core.EnableEpochFlag) bool {
 						return flag == hostCore.SCDeployFlag || flag == hostCore.AheadOfTimeGasUsageFlag || flag == hostCore.RepairCallbackFlag || flag == hostCore.BuiltInFunctionsFlag

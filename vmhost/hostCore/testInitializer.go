@@ -141,7 +141,7 @@ func DefaultTestVMForCallSigSegv(tb testing.TB, code []byte, balance *big.Int, p
 		BlockGasLimit:            uint64(1000),
 		GasSchedule:              gasSchedule,
 		ProtocolBuiltinFunctions: make(vmcommon.FunctionNames),
-		ProtectedKeyPrefix:       []byte("E" + "L" + "R" + "O" + "N" + "D"),
+		ProtectedKeyPrefix:       []byte("N" + "U" + "M" + "B" + "A" + "T"),
 		UseWarmInstance:          false,
 		EnableEpochsHandler: &mock.EnableEpochsHandlerStub{
 			IsFlagEnabledCalled: func(flag core.EnableEpochFlag) bool {
@@ -247,7 +247,7 @@ func defaultTestVM(tb testing.TB, blockchain vmcommon.BlockchainHook) *vmHost {
 		BlockGasLimit:            uint64(1000),
 		GasSchedule:              gasSchedule,
 		ProtocolBuiltinFunctions: make(vmcommon.FunctionNames),
-		ProtectedKeyPrefix:       []byte("E" + "L" + "R" + "O" + "N" + "D"),
+		ProtectedKeyPrefix:       []byte("N" + "U" + "M" + "B" + "A" + "T"),
 		UseWarmInstance:          false,
 		EnableEpochsHandler: &mock.EnableEpochsHandlerStub{
 			IsFlagEnabledCalled: func(flag core.EnableEpochFlag) bool {

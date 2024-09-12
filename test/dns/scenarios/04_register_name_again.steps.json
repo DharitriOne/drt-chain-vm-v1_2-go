@@ -19,7 +19,7 @@
                 "value": "123,000",
                 "function": "register",
                 "arguments": [
-                    "0x636f6f6c6e616d65303030312e656c726f6e64"
+                    "0x636f6f6c6e616d65303030312e6e756d626174"
                 ],
                 "gasLimit": "10,000,000",
                 "gasPrice": "0"
@@ -42,7 +42,7 @@
                 "value": "0",
                 "function": "resolve",
                 "arguments": [
-                    "0x636f6f6c6e616d65303030312e656c726f6e64"
+                    "0x636f6f6c6e616d65303030312e6e756d626174"
                 ],
                 "gasLimit": "50,000,000",
                 "gasPrice": "0"
@@ -61,7 +61,7 @@
                 "address:cool_address": {
                     "nonce": "*",
                     "balance": "123,000",
-                    "username": "0x636f6f6c6e616d65303030312e656c726f6e64"
+                    "username": "0x636f6f6c6e616d65303030312e6e756d626174"
                 },
                 "sc:dns#87": {
                     "nonce": "*",
@@ -69,7 +69,7 @@
                     "storage": {
                         "''registration_cost": "123,000",
                         "''feat:register": "1",
-                        "''value_state|keccak256:0x636f6f6c6e616d65303030312e656c726f6e64": "u8:2|address:cool_address"
+                        "''value_state|keccak256:0x636f6f6c6e616d65303030312e6e756d626174": "u8:2|address:cool_address"
                     },
                     "code": "file:../output/dns.wasm"
                 },

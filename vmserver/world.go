@@ -53,7 +53,7 @@ func getHostParameters() *vmhost.VMHostParameters {
 		VMType:             []byte{5, 0},
 		BlockGasLimit:      uint64(10000000),
 		GasSchedule:        config.MakeGasMap(1, 1),
-		ProtectedKeyPrefix: []byte("E" + "L" + "R" + "O" + "N" + "D"),
+		ProtectedKeyPrefix: []byte("N" + "U" + "M" + "B" + "A" + "T"),
 		EnableEpochsHandler: &mock.EnableEpochsHandlerStub{
 			IsFlagEnabledCalled: func(flag core.EnableEpochFlag) bool {
 				return flag == hostCore.SCDeployFlag || flag == hostCore.AheadOfTimeGasUsageFlag || flag == hostCore.RepairCallbackFlag || flag == hostCore.BuiltInFunctionsFlag

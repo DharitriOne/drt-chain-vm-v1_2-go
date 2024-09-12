@@ -27,7 +27,7 @@
                     "nonce": "0",
                     "balance": "100",
                     "storage": {
-                        "0x454C524F4E44|str:reward": "100"
+                        "0x4E554D424154|str:reward": "100"
                     },
                     "code": ""
                 }
@@ -48,7 +48,7 @@
                     "nonce": "0",
                     "balance": "150",
                     "storage": {
-                        "0x454C524F4E44|str:reward": "150"
+                        "0x4E554D424154|str:reward": "150"
                     },
                     "code": ""
                 }
